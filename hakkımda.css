@@ -1,0 +1,217 @@
+body{
+	font-family : arial;
+	background-color:#FFF8DC;
+
+
+
+
+}
+
+
+a {
+    text-decoration: none;
+		color:black;
+}
+
+
+.kutu{width: 300px;
+      height:30px;
+      border: 5px solid #000;
+      background-color:#FAD9D9;
+	  top:200px;
+	  position:relative;
+	  border-radius: 50px;
+	  left:250px;
+	  border-width: 3px 2px 8px 2px;
+	  transition:background 0.5s;
+	   
+	  
+	  
+		
+	
+	
+	
+	
+	
+}
+
+.kutu:hover{
+	background:#bd8834;
+	-ms-transform: scale(1.2); 
+	-webkit-transform: scale(1.2); 
+	transform: scale(1.2);
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+.kutu2{width: 300px;
+      height:30px;
+      border: 5px solid #000;
+      background-color:#fff8dc;
+	  top:200px;
+	  position:relative;
+	  border-radius: 50px;
+	  left:600px;
+	  border-width: 3px 2px 8px 2px;
+	  transition:background 0.5s;
+	  
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+.kutu2:hover{
+	background:#bd8834;
+	-ms-transform: scale(1.2); 
+	-webkit-transform: scale(1.2); 
+	transform: scale(1.2);
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+.kutu3{width: 300px;
+      height:30px;
+      border: 5px solid #000;
+      background-color:#FAD9D9;
+	  top:115px;
+	  position:relative;
+	  border-radius: 50px;
+	  left:950px;
+	  border-width: 3px 2px 8px 2px;
+	  transition:background 0.5s;
+	   
+	  
+	  
+	
+	
+	
+	
+	
+
+
+	
+}
+
+
+.kutu3:hover{
+	background:#bd8834;
+	-ms-transform: scale(1.2); 
+	-webkit-transform: scale(1.2); 
+	transform: scale(1.2);	
+	
+
+	
+	
+	
+	
+}
+
+
+.biyo{width:1200;
+	  height:1600px;
+	  border: 5px solid #000;
+      background-color:#FAD9D9;
+	  top:220px;
+	  position:relative;
+	  border-radius: 50px;
+	  border-width: 3px 2px 8px 2px;
+	  left:154px;
+	  
+
+
+	   
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.adam{width:400px;
+	position:relative;
+	bottom:660;
+	border-width: 30px 20px 80px 20px;
+	left:185px;
+
+	
+
+
+
+	
+}
+
+.tanitim{
+	width:700;
+	  height:750px;
+	  border: 5px solid #000;
+	  bottom:1150px;
+	  position:relative;
+	  border-radius: 50px;
+	  border-width: 3px 2px 8px 2px;
+	  left:600px;
+	  background-color:white;
+	  
+	
+	
+	
+	
+	
+}
+hr{
+	height:4px;
+	background-color:black;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+.cv{
+	
+	
+	height:100%;
+	
+	
+	
+	
+	
+	
+	]

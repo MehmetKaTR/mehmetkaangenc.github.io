@@ -1,0 +1,307 @@
+body{
+	font-family : arial;
+	background-color:#FFF8DC;
+
+
+
+
+}
+
+a {
+    text-decoration: none;
+		color:black;
+}
+
+.kutu{width: 300px;
+      height:30px;
+      border: 5px solid #000;
+      background-color:#FAD9D9;
+	  top:200px;
+	  position:relative;
+	  border-radius: 50px;
+	  left:250px;
+	  border-width: 3px 2px 8px 2px;
+	  transition:background 0.5s;
+	   
+	  
+	  
+		
+	
+	
+	
+	
+	
+}
+
+.kutu:hover{
+	background:#bd8834;
+	-ms-transform: scale(1.2); 
+	-webkit-transform: scale(1.2); 
+	transform: scale(1.2);
+
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+.kutu2{width: 300px;
+      height:30px;
+      border: 5px solid #000;
+      background-color:#FAD9D9;
+	  top:159px;
+	  position:relative;
+	  border-radius: 50px;
+	  left:600px;
+	  border-width: 3px 2px 8px 2px;
+	  transition:background 0.5s;
+	  
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+.kutu2:hover{
+	background:#bd8834;
+	-ms-transform: scale(1.2); 
+	-webkit-transform: scale(1.2); 
+	transform: scale(1.2);
+
+	
+
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+.kutu3{width: 300px;
+      height:30px;
+      border: 5px solid #000;
+      background-color:#fff8dc;
+	  top:160px;
+	  position:relative;
+	  border-radius: 50px;
+	  left:950px;
+	  border-width: 3px 2px 8px 2px;
+	  transition:background 0.5s;
+	   
+	  
+	  
+	
+	
+	
+	
+	
+
+
+	
+}
+
+
+.kutu3:hover{
+	background:#bd8834;
+	-ms-transform: scale(1.2); 
+	-webkit-transform: scale(1.2); 
+	transform: scale(1.2);
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+.biyo{width:1200;
+	  height:900px;
+	  border: 5px solid #000;
+      background-color:#FAD9D9;
+	  top:220px;
+	  position:relative;
+	  border-radius: 50px;
+	  border-width: 3px 2px 8px 2px;
+	  left:154px;
+}
+
+.t1{
+	width:900px;
+      height:300px;
+      background-color:#FAD9D9;
+	  position:relative;
+	  border-radius: 20px;
+	  left:400px;
+	  bottom:600px;
+	
+}
+.area{
+	overflow:Scrollbar;
+}
+	
+	
+	
+	
+.ad{
+	width:200px;
+	height:100px;
+	width: 80%;
+
+    padding: 12px 20px;
+
+    margin: 8px 0;
+
+    box-sizing: border-box;
+}
+
+
+
+
+.twitter{
+	
+	
+	
+	position:absolute;
+	left:150px;
+	top:140px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+.twitter:hover{
+	-ms-transform: scale(1.3); 
+	-webkit-transform: scale(1.3); 
+	transform: scale(1.3);
+
+	
+	
+	
+	
+	
+}
+
+
+
+.outlook{
+	
+	position:absolute;
+	left:450px;
+	top:140px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+.outlook:hover{
+	-ms-transform: scale(1.3); 
+	-webkit-transform: scale(1.3); 
+	transform: scale(1.3);
+
+
+}
+
+
+
+.linkedin{
+	
+	position:absolute;
+	left:750px;
+	top:140px;
+	
+	
+	
+}
+
+.linkedin:hover{
+	-ms-transform: scale(1.3); 
+	-webkit-transform: scale(1.3); 
+	transform: scale(1.3);
+	
+}
+
+
+
+
+
+
+
+.twitterad{
+	
+	
+		position:absolute;
+		left:250px;
+		top:400px;
+		font-size:25;
+	
+	
+	
+	
+	
+}
+
+
+
+
+.outlookad{
+	
+	
+		position:absolute;
+		left:525px;
+		top:400px;
+		font-size:25;
+	
+	
+	
+	
+}
+
+.linkedinad{
+	
+	
+		position:absolute;
+		left:800px;
+		top:400px;
+		font-size:25;
+	
+	
+	
+}
